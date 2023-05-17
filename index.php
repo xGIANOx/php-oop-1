@@ -1,6 +1,6 @@
 <?php
-        require_once 'Models/Category.php';
-        require_once 'Models/Movie.php';
+        require_once './models/category.php';
+        require_once './models/movie.php';
         require_once 'db.php';
 ?>
 
